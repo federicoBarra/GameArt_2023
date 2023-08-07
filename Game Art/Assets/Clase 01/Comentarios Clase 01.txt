@@ -1,0 +1,21 @@
+Federico Barra
+1562667575
+federico.n.barra@gmail.com
+Discord: federico.n.barra
+
+Version de Unity
+LTS 2022.3.6f1
+
+Links para profundizar:
+FBX
+https://docs.unity3d.com/Manual/class-FBXImporter.html
+Materiales
+https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@12.0/manual/lit-shader.html
+Texturas
+https://docs.unity3d.com/Manual/class-TextureImporter.html
+
+Como exportar texturas de painter a Unity.
+https://www.youtube.com/watch?v=_4ULQ95njmQ&ab_channel=SimonSanchezArt
+
+Materiales de substance directo en unity
+https://www.youtube.com/watch?v=N62jDffWQHE&ab_channel=AdobeSubstance3D
