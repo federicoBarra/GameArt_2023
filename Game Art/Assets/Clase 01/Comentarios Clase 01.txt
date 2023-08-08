@@ -1,10 +1,13 @@
 Federico Barra
-1562667575
 federico.n.barra@gmail.com
 Discord: federico.n.barra
+1562667575
 
 Version de Unity
 LTS 2022.3.6f1
+
+Link a este repo:
+https://github.com/federicoBarra/GameArt_2023
 
 Links para profundizar:
 FBX
