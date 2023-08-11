@@ -1,0 +1,45 @@
+[Clase 02] ---------------------------------------------------------------------------------
+
+Links para profundizar:
+HDR
+https://docs.unity3d.com/Manual/HDR.html
+Deferred vs Forward
+https://docs.unity3d.com/Manual/RenderingPaths.html
+Anisotropic
+https://en.wikipedia.org/wiki/Anisotropic_filtering
+MipMaps
+https://en.wikipedia.org/wiki/Mipmap
+Color Mode:
+https://docs.unity3d.com/Manual/shader-StandardParticleShaders.html
+Asset Store:
+https://assetstore.unity.com/
+
+Drive General:
+https://drive.google.com/drive/folders/10VezIXLHVh13ATeqeKiep7Y0nuE8WkR_?usp=sharing
+
+
+[Clase 01] ---------------------------------------------------------------------------------
+Federico Barra
+federico.n.barra@gmail.com
+Discord: federico.n.barra
+1562667575
+
+Version de Unity
+LTS 2022.3.6f1
+
+Link a este repo:
+https://github.com/federicoBarra/GameArt_2023
+
+Links para profundizar:
+FBX
+https://docs.unity3d.com/Manual/class-FBXImporter.html
+Materiales
+https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@12.0/manual/lit-shader.html
+Texturas
+https://docs.unity3d.com/Manual/class-TextureImporter.html
+
+Como exportar texturas de painter a Unity.
+https://www.youtube.com/watch?v=_4ULQ95njmQ&ab_channel=SimonSanchezArt
+
+Materiales de substance directo en unity
+https://www.youtube.com/watch?v=N62jDffWQHE&ab_channel=AdobeSubstance3D
