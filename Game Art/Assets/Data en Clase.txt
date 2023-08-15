@@ -1,3 +1,22 @@
+[Clase 03] ---------------------------------------------------------------------------------
+
+First Person Character Controller:
+https://assetstore.unity.com/packages/essentials/starter-assets-first-person-character-controller-urp-196525
+
+Third Person Character Controller:
+https://assetstore.unity.com/packages/essentials/starter-assets-third-person-character-controller-urp-196526
+
+Otros assets gratis de Unity:
+https://assetstore.unity.com/publishers/1
+
+Unity Particles:
+https://assetstore.unity.com/packages/vfx/particles/particle-pack-127325
+
+Unity Learn
+https://learn.unity.com/project/getting-started-with-particle-systems
+https://learn.unity.com/project/introduction-to-terrain-editor
+
+
 [Clase 02] ---------------------------------------------------------------------------------
 
 Links para profundizar:
