@@ -1,3 +1,15 @@
+VOLVEMOS 21.10hs
+
+
+[Clase 04] ---------------------------------------------------------------------------------
+
+Realtime Global Illuminaiton
+https://www.youtube.com/watch?v=QNXbAUKkbEc&t=152&ab_channel=UGuruz
+
+Reflection Probes
+https://www.youtube.com/watch?v=wol5bd3_bAQ&ab_channel=LearntoUnity
+
+
 [Clase 03] ---------------------------------------------------------------------------------
 
 First Person Character Controller:
